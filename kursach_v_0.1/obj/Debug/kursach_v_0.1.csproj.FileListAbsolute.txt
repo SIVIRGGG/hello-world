@@ -1,0 +1,76 @@
+C:\Users\VAT\Desktop\kursach_v_0.1\kursach_v_0.1\bin\Debug\kursach_v_0.1.exe.config
+C:\Users\VAT\Desktop\kursach_v_0.1\kursach_v_0.1\bin\Debug\kursach_v_0.1.exe
+C:\Users\VAT\Desktop\kursach_v_0.1\kursach_v_0.1\bin\Debug\kursach_v_0.1.pdb
+C:\Users\VAT\Desktop\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form1.resources
+C:\Users\VAT\Desktop\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Properties.Resources.resources
+C:\Users\VAT\Desktop\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0.1.csproj.GenerateResource.Cache
+C:\Users\VAT\Desktop\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0.1.exe
+C:\Users\VAT\Desktop\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0.1.pdb
+C:\Users\VAT\Desktop\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form2.resources
+C:\Users\VAT\Desktop\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0.1.csprojResolveAssemblyReference.cache
+C:\Users\VAT\Desktop\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form3.resources
+C:\Users\VAT\Desktop\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form4.resources
+C:\Users\VAT\Desktop\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form5.resources
+C:\Users\VAT\Desktop\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form6.resources
+C:\Users\VAT\Desktop\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form7.resources
+C:\Users\Loner\Desktop\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\bin\Debug\kursach_v_0.1.exe.config
+C:\Users\Loner\Desktop\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0.1.exe
+C:\Users\Loner\Desktop\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0.1.pdb
+C:\Users\Loner\Desktop\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\bin\Debug\kursach_v_0.1.exe
+C:\Users\Loner\Desktop\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\bin\Debug\kursach_v_0.1.pdb
+C:\Users\Loner\Desktop\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0.1.csprojResolveAssemblyReference.cache
+C:\Users\Loner\Desktop\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form1.resources
+C:\Users\Loner\Desktop\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form2.resources
+C:\Users\Loner\Desktop\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form3.resources
+C:\Users\Loner\Desktop\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form4.resources
+C:\Users\Loner\Desktop\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form5.resources
+C:\Users\Loner\Desktop\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form6.resources
+C:\Users\Loner\Desktop\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form7.resources
+C:\Users\Loner\Desktop\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Properties.Resources.resources
+C:\Users\Loner\Desktop\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0.1.csproj.GenerateResource.Cache
+C:\Users\VAT\Desktop\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\bin\Debug\kursach_v_0.1.exe.config
+C:\Users\VAT\Desktop\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0.1.exe
+C:\Users\VAT\Desktop\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0.1.pdb
+C:\Users\VAT\Desktop\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\bin\Debug\kursach_v_0.1.exe
+C:\Users\VAT\Desktop\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\bin\Debug\kursach_v_0.1.pdb
+C:\Users\VAT\Desktop\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0.1.csprojResolveAssemblyReference.cache
+C:\Users\VAT\Desktop\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form1.resources
+C:\Users\VAT\Desktop\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form2.resources
+C:\Users\VAT\Desktop\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form3.resources
+C:\Users\VAT\Desktop\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form4.resources
+C:\Users\VAT\Desktop\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form5.resources
+C:\Users\VAT\Desktop\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form6.resources
+C:\Users\VAT\Desktop\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form7.resources
+C:\Users\VAT\Desktop\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Properties.Resources.resources
+C:\Users\VAT\Desktop\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0.1.csproj.GenerateResource.Cache
+C:\Users\VAT\Desktop\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\bin\Debug\kursach_v_0.1.exe.config
+C:\Users\VAT\Desktop\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\bin\Debug\kursach_v_0.1.exe
+C:\Users\VAT\Desktop\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\bin\Debug\kursach_v_0.1.pdb
+C:\Users\VAT\Desktop\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0.1.csprojAssemblyReference.cache
+C:\Users\VAT\Desktop\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form1.resources
+C:\Users\VAT\Desktop\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form2.resources
+C:\Users\VAT\Desktop\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form3.resources
+C:\Users\VAT\Desktop\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form4.resources
+C:\Users\VAT\Desktop\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form5.resources
+C:\Users\VAT\Desktop\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form6.resources
+C:\Users\VAT\Desktop\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form7.resources
+C:\Users\VAT\Desktop\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Properties.Resources.resources
+C:\Users\VAT\Desktop\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0.1.csproj.GenerateResource.cache
+C:\Users\VAT\Desktop\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0.1.csproj.CoreCompileInputs.cache
+C:\Users\VAT\Desktop\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0.1.exe
+C:\Users\VAT\Desktop\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0.1.pdb
+F:\Больница курсач ООП\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\bin\Debug\kursach_v_0.1.exe.config
+F:\Больница курсач ООП\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\bin\Debug\kursach_v_0.1.exe
+F:\Больница курсач ООП\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0.1.csprojAssemblyReference.cache
+F:\Больница курсач ООП\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form1.resources
+F:\Больница курсач ООП\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form2.resources
+F:\Больница курсач ООП\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form3.resources
+F:\Больница курсач ООП\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form4.resources
+F:\Больница курсач ООП\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form5.resources
+F:\Больница курсач ООП\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form6.resources
+F:\Больница курсач ООП\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Form7.resources
+F:\Больница курсач ООП\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0._1.Properties.Resources.resources
+F:\Больница курсач ООП\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0.1.csproj.GenerateResource.cache
+F:\Больница курсач ООП\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0.1.csproj.CoreCompileInputs.cache
+F:\Больница курсач ООП\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0.1.exe
+F:\Больница курсач ООП\kursach_v_0.2-20190616T210807Z-001\kursach_v_0.2\kursach_v_0.1\kursach_v_0.1\kursach_v_0.1\obj\Debug\kursach_v_0.1.pdb
